@@ -2,7 +2,7 @@
 ## ATM and Banking SYSTEM
 
 ### NAME : V KAMALESH VIJAYAKUMAR
-### REG.NO : 212224110028
+### REG.NO : 212224220019
 ### AIM: 
 To study the problem statement, SRS document and draw all the UML diagrams of ATM
 System.
@@ -11,11 +11,11 @@ To create ATM System software that will meet the needs of the applicant and help
 to withdraw money,deposit.
 ### UML DIAGRAMS:
 ### Usecase Diagram:
-<img width="989" height="960" alt="image" src="https://github.com/user-attachments/assets/d4f8d7e5-66d6-4ffd-b67b-98df0a11f95d" />
+
+<img width="1237" height="1020" alt="image" src="https://github.com/user-attachments/assets/14e41ffd-2a38-4e8b-bf13-a5a21a809d02" />
 
 ### Class Diagram:
-<img width="817" height="688" alt="image" src="https://github.com/user-attachments/assets/ef26e56d-ebd8-4681-a8bb-2d7e8eafd17e" />
-
+<img width="1239" height="1015" alt="image" src="https://github.com/user-attachments/assets/1f9cffe7-d104-4571-afac-7e940099122d" />
 
 ### Sequence Diagram:
 <img width="1185" height="986" alt="image" src="https://github.com/user-attachments/assets/41345ee3-9536-46b8-a585-b893df60b5ca" />
