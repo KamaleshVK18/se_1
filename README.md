@@ -1,34 +1,49 @@
-# LAB-1-ATM
-## ATM and Banking SYSTEM
+# Exp-1 ATM & BANKING SYSTEM
 
-### NAME : V KAMALESH VIJAYAKUMAR
-### REG.NO : 212224110028
-### AIM: 
+# AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of ATM
 System.
-### PROBLEM STATEMENT:
-To create ATM System software that will meet the needs of the applicant and help them
-to withdraw money,deposit.
-### UML DIAGRAMS:
-### Usecase Diagram:
 
-<img width="1237" height="1020" alt="image" src="https://github.com/user-attachments/assets/14e41ffd-2a38-4e8b-bf13-a5a21a809d02" />
+# SRS (Procedure):
 
-### Class Diagram:
-<img width="1239" height="1015" alt="image" src="https://github.com/user-attachments/assets/1f9cffe7-d104-4571-afac-7e940099122d" />
+1.Create the Use Case Diagram to show actors and their interactions with the system.
 
-### Sequence Diagram:
-<img width="1185" height="986" alt="image" src="https://github.com/user-attachments/assets/41345ee3-9536-46b8-a585-b893df60b5ca" />
+2.Develop the Class Diagram representing classes, attributes, operations, and relationships.
 
-### Activity Diagram:
-<img width="1228" height="1016" alt="image" src="https://github.com/user-attachments/assets/8e198781-13b3-4516-8c58-02cc6651c2ef" />
+3.Design the Activity Diagram describing workflows such as cash withdrawal.
 
-### Communication Diagram:
-<img width="1227" height="1014" alt="image" src="https://github.com/user-attachments/assets/e09f6650-9c3e-4a28-8af0-b881838f6ef8" />
+4.Construct the Sequence Diagram illustrating interactions between objects during processes like PIN verification.
 
-### Package Diagram:
-<img width="1229" height="1009" alt="image" src="https://github.com/user-attachments/assets/f0bdfbb7-e642-4837-ad72-e3cbfd342326" />
+5.Prepare the Communication Diagram showing collaboration among objects.
+
+6.Organize components into packages using a Package Diagram for modularity.
+
+# DIAGRAMS:
+
+## USE CASE DIAGRAM:
+
+<img width="1022" height="803" alt="usecase" src="https://github.com/user-attachments/assets/d12a1c5a-eef4-42f8-ba28-e3a7ca7826cf" />
+
+## CLASS DIAGRAM:
+
+<img width="840" height="747" alt="Classdiagram" src="https://github.com/user-attachments/assets/4f83649b-7ac5-4a5b-befd-d93d3a1a1af4" />
+
+## SEQUENCE DIAGRAM:
+
+<img width="813" height="868" alt="sequence diagram" src="https://github.com/user-attachments/assets/8f55572c-78fb-43f1-a6c8-907c9772d99d" />
+
+## ACTIVITY DIAGRAM:
+
+<img width="691" height="893" alt="activity diagram" src="https://github.com/user-attachments/assets/5db70c86-6800-4739-aa8f-e44bc7a186e5" />
+
+## COMMUNICATION DIAGRAM:
+
+<img width="1117" height="867" alt="communication diagram" src="https://github.com/user-attachments/assets/3b1d8ed4-e326-4b87-9992-8487ca156698" />
 
 
-### RESULT: 
-Thus the Atm and banking System project was executed and the output was verified.
+## PACKAGE DIAGRAM:
+
+<img width="607" height="511" alt="package diagram" src="https://github.com/user-attachments/assets/84b39f11-7055-4da2-905d-91c0c9f12b97" />
+
+# RESULT:
+The ATM System is successfully analyzed, and its architecture is effectively represented using UML diagrams, providing a clear understanding of system structure and behavior.
