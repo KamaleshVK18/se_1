@@ -2,7 +2,7 @@
 ## ATM and Banking SYSTEM
 
 ### NAME : V KAMALESH VIJAYAKUMAR
-### REG.NO : 212224220019
+### REG.NO : 212224110028
 ### AIM: 
 To study the problem statement, SRS document and draw all the UML diagrams of ATM
 System.
